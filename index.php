@@ -1,1 +1,1 @@
-<?php include_once("index.dm"); ?>
+<?php include_once("index.md"); ?>
